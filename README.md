@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huliawsl)](https://github.com/huliawsl/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huliawsl)](https://github.com/huliawsl/github-readme-stats&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huliawsl)](https://github.com/huliawsl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huliawsl)](https://github.com/huliawsl/github-readme-stats&count_private=true)
 - 👋 Hi, I’m @huliawsl
 - 👀 I’m interested in 3d designing, unity
 - 🌱 I’m currently learning C#
