@@ -3,9 +3,9 @@
 ![Top Langs](https://api.githubtrends.io/user/svg/huliawsl/langs?time_range=all_time&include_private=True&theme=classic)
 
 - 👋 Hi, I’m @huliawsl
-- 👀 I’m interested in 3D designing and Unity development.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on 3D design projects or Unity game development.
+- 👀 I’m interested in 3D 3D generation and stylization.
+- 🌱 I’m currently learning diffusion model.
+- 💞️ I’m looking to collaborate on graphics research.
 - 📫 How to reach me: [Email me](huliawsl.@foxmail.com) or send me a message on GitHub.
 
 <!---
