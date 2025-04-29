@@ -2,7 +2,7 @@
 
 ![Top Langs](https://api.githubtrends.io/user/svg/huliawsl/langs?time_range=all_time&include_private=True&theme=classic)
 
-- 👋 Hi, I’m @huliawsl
+- 👋 Hi, I’m Axton
 - 👀 I’m interested in 3D generation and stylization.
 - 🌱 I’m currently learning diffusion model.
 - 💞️ I’m looking to collaborate on graphics research.
